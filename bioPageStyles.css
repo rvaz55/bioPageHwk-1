@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 300%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+figure {
+    text-align: center;
+}
+
+#accordion section p {
+    display: none;
+    color: rgb(192,81,207);
+    
+}
+
+#accordion section a {
+    color: rgb(95,96,171);;
+}
