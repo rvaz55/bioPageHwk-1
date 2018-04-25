@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 300%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+figure {
+    text-align: center;
+}
+
+#accordion section p {
+    display: none;
+    color: rgb(192,81,207);
+    
+}
+
+#accordion section a {
+    color: rgb(95,96,171);
+
+}
+
+#accordion section a:hover {
+    text-decoration: line-through;
+}
+
+/* This snippet of code was suppose to use the 'target' selector to show/hide this block - upon further 
+research I found that this snippet is not supported on major browsers and as such I am abandoning this sample
+
+#accordion section p:target {
+    display: block;
+}
+
+*/
