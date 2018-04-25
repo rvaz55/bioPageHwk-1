@@ -17,6 +17,22 @@
         <img id="orchidSelfie" alt="Raquel stands by a magenta orchid at the Atlanta Botanical Gardens, April 2018" src="/Users/raquelazcue/Documents/2018/Houston Coding Bootcamp/Homework Assignments/April 2018/First Webpage Assignment - Week 1/Images/ResizedOrchidsAndSelf.jpg"> 
         <figcaption>Raquel (yellow vest) stands by a magenta orchid at the Atlanta Botanical Gardens. <i>April 2018</i></figcaption>
     </figure>
-    
+ <!-- This sample accordion was modeled after a youtube video -->
+ 
+ <main id="accordion">
+    <section id="item1">
+        <a href="item#1"><h2>Item #1</h2></a>
+            <p>random infor ihoiwhosiehofi jksbdkjf shdl w rehrwu sjfggau neurw rqeooze qytstxj.</p>
+    </section>
+
+    <section id="item2">
+            <a href="item#2"><h2>Item #2</h2></a>
+                <p>random infor ihoiwhosiehofi jksbdkjf shdl w rehrwu sjfggau neurw rqeooze qytstxj.</p>
+        </section>
+
+     <section id="item3">
+                <a href="item#3"><h2>Item #3</h2></a>
+                    <p>random infor ihoiwhosiehofi jksbdkjf shdl w rehrwu sjfggau neurw rqeooze qytstxj.</p>
+            </section>
     </body>
 </html>
