@@ -9,12 +9,3 @@ figure {
     text-align: center;
 }
 
-#accordion section p {
-    display: none;
-    color: rgb(192,81,207);
-    
-}
-
-#accordion section a {
-    color: rgb(95,96,171);;
-}
