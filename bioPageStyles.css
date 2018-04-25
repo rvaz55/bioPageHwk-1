@@ -18,3 +18,7 @@ figure {
 #accordion section a {
     color: rgb(95,96,171);;
 }
+
+#accordion section:target p {
+    display: block;
+}
